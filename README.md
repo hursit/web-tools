@@ -10,7 +10,7 @@
     $mpdf->Output();
     exit;
 
-#### nicEdit
+#### nicEdit :
     Textarea girdiler icin yazi editoru
     Diger editorlere gore cok avantajli
     Yazimiza resim ekleyip boyutlandirmamiza(Mozilla destekliyor, chromium
