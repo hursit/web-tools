@@ -16,4 +16,9 @@
     Yazimiza resim ekleyip boyutlandirmamiza(Mozilla destekliyor, chromium
     desteklemiyor) imkan veriyor. Ayni zamanda bu resimler kendi sunucumuzda
     degil, nicEdit programinin sunucularinda tutuluyor. Diger editorlerin
-    cogunda boyle bir ozellik yok
+    cogunda boyle bir ozellik yok. Kullanımı da cok kolay. Iki satir kod, butun
+    textarea kisimlarina yazi editorunu ekliyor.
+
+    <script src="http://js.nicedit.com/nicEdit-latest.js" type="text/javascript"></script>
+    <script type="text/javascript">bkLib.onDomLoaded(nicEditors.allTextAreas);</script>
+
